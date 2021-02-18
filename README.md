@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1> Hi! 👋 </h1>
 
-<!--
-**PedroAngelVD/PedroAngelVD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> I'm Pedro Angel</h2>
 
-Here are some ideas to get you started:
+<img align='right' src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>😎 About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+
+- 🌱 &nbsp; Learning about Javascript Frameworks.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp;  Node  |  MongoDB  |  MySQL
+
+- 🌐 &nbsp; HTML  |  CSS  |  JavaScript  |  Vue  |  React
