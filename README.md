@@ -2,10 +2,7 @@
 
 <h2> I'm Pedro Angel</h2>
 
-<!-- <img align='right' src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif"> -->
-<a href="https://app.daily.dev/PedroAngelDev">
-  <img align='right' src="https://api.daily.dev/devcards/2d6dce3a51f840569c00dfa5d30a4955.png?r=v5f" width="300" alt="Pedro Angel's Dev Card"/>
-</a>
+<img align='right' src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif">
 
 <h3>😎 About Me </h3>
 
@@ -18,3 +15,9 @@
 - 💻 &nbsp;  Node  |  MongoDB  |  MySQL
 
 - 🌐 &nbsp; HTML  |  CSS  |  JavaScript  |  Vue  |  React
+
+[<img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedroangeldev/)
+[<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PedroAngelDev)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pedroangeldev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="My github stats" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroangeldev&hide=java&layout=compact&theme=dracula&hide_border=true" />
