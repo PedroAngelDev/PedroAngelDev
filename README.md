@@ -19,5 +19,7 @@
 [<img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedroangeldev/)
 [<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PedroAngelDev)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pedroangeldev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="My github stats" /> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroangeldev&hide=java&layout=compact&theme=dracula&hide_border=true" />
+<div style="display: flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroangeldev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="My github stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroangeldev&hide=java&layout=compact&theme=dracula&hide_border=true" />
+</div>
