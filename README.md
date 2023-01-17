@@ -15,8 +15,3 @@
 - 💻 &nbsp; HTML  |  CSS  |  JavaScript  |  Vue  |  React
 
 [<img alt="Github" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedrovegadamian/)
-
-<div style="display: flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrovegadamian&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="My github stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovegadamian&hide=java&layout=compact&theme=dracula&hide_border=true" />
-</div>
